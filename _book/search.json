@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "fundamentals_of_math_modeling.html#modeling-process",
+    "href": "fundamentals_of_math_modeling.html#modeling-process",
+    "title": "2  Fundamentals of Mathematical Modeling",
+    "section": "2.1 Modeling Process",
+    "text": "2.1 Modeling Process\n\n2.1.1 Michaelis Menten Model\n\nUse case for Michaelis Menten Model\n\nPredicts the initial rate of the reaction\n\n\n\nDynamic and Non linear model, that predicts initial rate of the reaction\n\n\n\n\nModel selections:\n\nExplanatory vs Correlative\nStatic vs Dynaamic\nContinuous vs Discrete\nDeterministic vs Stochastic\nOpen vs Closed\n\nModel use and Applications:\n\n\nA typical modeling process:"
+  },
+  {
+    "objectID": "fundamentals_of_math_modeling.html#sir-model-of-infectious-diseases",
+    "href": "fundamentals_of_math_modeling.html#sir-model-of-infectious-diseases",
+    "title": "2  Fundamentals of Mathematical Modeling",
+    "section": "2.2 SIR Model of Infectious diseases:",
+    "text": "2.2 SIR Model of Infectious diseases:"
+  },
+  {
+    "objectID": "fundamentals_of_math_modeling.html#different-types-of-networks-in-biology",
+    "href": "fundamentals_of_math_modeling.html#different-types-of-networks-in-biology",
+    "title": "2  Fundamentals of Mathematical Modeling",
+    "section": "2.3 Different types of Networks in Biology",
+    "text": "2.3 Different types of Networks in Biology\n\nMetabolic Networks\nGene Regulatory Networks\nSignal Transduction Networks\nProtein Protein Interaction\n\n\n2.3.1 Systems Biology Graphical Notation (SBGN)"
+  },
+  {
+    "objectID": "introduction.html#course-contents",
+    "href": "introduction.html#course-contents",
+    "title": "Introduction",
+    "section": "Course Contents",
+    "text": "Course Contents\n\n\nReverse engineering is the key aspect of systems biology\nComputational biology is the leader in telling us what experiments do\nHighlights gaps in knowledgeHelps in assisting experimentation\nInexpensive, Generalisable, allows for Prediction\nPaper recommendation - can a biologist fix a radio\n\n\nGood models answers questions that are very difficult to answer in wet lab"
+  },
+  {
+    "objectID": "introduction.html#what-is-a-model",
+    "href": "introduction.html#what-is-a-model",
+    "title": "Introduction",
+    "section": "What is a Model?",
+    "text": "What is a Model?\n\nA model is an abstract, simplified, construct related to a part of reality and created for a particular purpose.\n\nModel Divides world into 3 sets:\n\nWhose effects are neglected\nWhose effects are not considered even though it affects the model\nThings the model is designed to study the behavior of\n\n\nHow do we model is completely dictated by Why do we want to model"
+  },
+  {
+    "objectID": "introduction.html#why-modelsimulate",
+    "href": "introduction.html#why-modelsimulate",
+    "title": "Introduction",
+    "section": "Why Model/Simulate?",
+    "text": "Why Model/Simulate?\n\nApproximate the parts of reality in order to predict\nCreate a simplistic representation of a date\nUnderstand something - Large (eg: Road network [easy to predict, linearity, more number of nodes]) vs Complex (Metabolic pathway [More edges, difficult to predict, Non linearity])\nWhat if? - To Highlight gaps in knowledge\n\n\nStart with bunch of hypothesis → build a model → Test against the reality → Find certain gaps, repeat (lot of efforts in modeling goes in bridging the gaps)\n\n\nModelling allows compress things across space\nAssist experiments in general - “Computational Biology is the leader in telling us what experiments do” - David Eisenberg\nInexpensive\nGeneralization\n\nSome biological problems that cannot be solved without computer:\n\nSequencing large genomes\nProtein Folding\nProtein Ligand Interaction"
+  },
+  {
+    "objectID": "introduction.html#challenges-in-modeling-biological-system",
+    "href": "introduction.html#challenges-in-modeling-biological-system",
+    "title": "Introduction",
+    "section": "Challenges in Modeling Biological System",
+    "text": "Challenges in Modeling Biological System\n\n“Heterogenity” So much inherent noise and differences even between identical cells!\n\n\n\nEvolution\n\n\n“Remember that all models are wrong, question is how wrong do they have to be to not be useful”"
+  },
+  {
+    "objectID": "introduction.html#types-of-graphs",
+    "href": "introduction.html#types-of-graphs",
+    "title": "Introduction",
+    "section": "Types of Graphs",
+    "text": "Types of Graphs\n\nex:\n\nProtein Networks - undirected\nGene Regulatory Networks - Directed"
+  },
+  {
+    "objectID": "network_biology.html#network-models",
+    "href": "network_biology.html#network-models",
+    "title": "3  Network Biology Concepts",
+    "section": "3.1 Network Models",
+    "text": "3.1 Network Models\n\n3.1.1 Erdos Reyni Random network\nBasically there are \\(n\\) nodes and \\(p\\) is the probability of edge. Take a pair of nodes, toss a coin, see if the probability is greater than or equal to the user given probability. If yes, create an edge otherwise no edge.\n\n\n\nAttaching package: 'igraph'\n\n\nThe following objects are masked from 'package:stats':\n\n    decompose, spectrum\n\n\nThe following object is masked from 'package:base':\n\n    union"
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "4  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  }
+]

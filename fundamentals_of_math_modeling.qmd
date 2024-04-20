@@ -1,0 +1,53 @@
+# Fundamentals of Mathematical Modeling
+
+## Modeling Process
+
+### Michaelis Menten Model
+
+Use case for Michaelis Menten Model
+
+:   Predicts the initial rate of the reaction
+
+    ![Dynamic and Non linear model, that predicts initial rate of the reaction](images/clipboard-3123908450.png)
+
+**Model selections:**
+
+-   Explanatory **vs** Correlative
+
+-   Static **vs** Dynaamic
+
+-   Continuous **vs** Discrete
+
+-   Deterministic **vs** Stochastic
+
+-   Open **vs** Closed
+
+**Model use and Applications:**
+
+![](images/clipboard-1950953656.png)
+
+![](images/clipboard-1204640053.png)
+
+A typical modeling process:
+
+![](images/clipboard-1976122801.png)
+
+## SIR Model of Infectious diseases:
+
+![](images/clipboard-1824368734.png)
+
+## Different types of Networks in Biology
+
+-   Metabolic Networks
+
+-   Gene Regulatory Networks
+
+-   Signal Transduction Networks
+
+-   Protein Protein Interaction
+
+### Systems Biology Graphical Notation (SBGN)
+
+![](images/clipboard-79331008.png)
+
+![](images/clipboard-2732492721.png)

@@ -1,0 +1,89 @@
+# Introduction {.unnumbered}
+
+## Course Contents
+
+![](images/Untitled.png)
+
+-   Reverse engineering is the key aspect of systems biology
+
+-   Computational biology is the leader in telling us what experiments do
+
+-   Highlights gaps in knowledgeHelps in assisting experimentation
+
+-   Inexpensive, Generalisable, allows for Prediction
+
+-   Paper recommendation - can a biologist fix a radio
+
+> Good models answers questions that are very difficult to answer in wet lab
+
+## What is a Model?
+
+> A model is an abstract, simplified, construct related to a part of reality and created for a particular purpose.
+
+Model Divides world into 3 sets:
+
+-   Whose effects are neglected
+
+-   Whose effects are not considered even though it affects the model
+
+-   Things the model is designed to study the behavior of
+
+> How do we model is completely dictated by Why do we want to model
+
+## Why Model/Simulate?
+
+-   Approximate the parts of reality in order to predict
+
+-   Create a simplistic representation of a date
+
+-   Understand something - Large (eg: Road network \[easy to predict, linearity, more number of nodes\]) **vs** Complex (Metabolic pathway \[More edges, difficult to predict, Non linearity\])
+
+-   What if? - To Highlight gaps in knowledge
+
+> Start with bunch of hypothesis → build a model → Test against the reality → Find certain gaps, repeat (lot of efforts in modeling goes in bridging the gaps)
+
+-   Modelling allows compress things across space
+
+-   Assist experiments in general - “Computational Biology is the leader in telling us what experiments do” - David Eisenberg
+
+-   Inexpensive
+
+-   Generalization
+
+Some biological problems that cannot be solved without computer:
+
+-   Sequencing large genomes
+
+-   Protein Folding
+
+-   Protein Ligand Interaction
+
+![Computers are as important as the test tubes in the field of chemistry now](images/Untitled-01.png) ![Always see the big picture while modeling](images/clipboard-3227417108.png)
+
+## Challenges in Modeling Biological System
+
+-   "Heterogenity" So much inherent noise and differences even between identical cells!
+
+![](images/clipboard-3787495332.png)
+
+-   Evolution
+
+> "Remember that all models are wrong, question is how wrong do they have to be to not be useful"
+
+## Types of Graphs
+
+![](images/clipboard-3958652072.png)
+
+ex:
+
+-   Protein Networks - undirected
+
+-   Gene Regulatory Networks - Directed
+
+![](images/clipboard-1899494634.png)
+
+![![](images/clipboard-1117398698.png)](images/clipboard-1494006579.png)
+
+![![](images/clipboard-579805223.png)](images/clipboard-18815701.png)
+
+![![](images/clipboard-517756736.png)](images/clipboard-3923597444.png)
