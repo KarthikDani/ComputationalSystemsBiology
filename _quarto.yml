@@ -3,7 +3,7 @@ project:
 
 book:
   title: "ComputationalSystemsBiology"
-  author: "Norah Jones"
+  author: "Karthik Dani"
   date: "4/20/2024"
   chapters:
     - index.qmd
